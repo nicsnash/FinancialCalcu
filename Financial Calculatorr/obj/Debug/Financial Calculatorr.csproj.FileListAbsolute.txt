@@ -1,0 +1,20 @@
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\Financial Calculatorr.exe.config
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\Financial Calculatorr.exe
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\Financial Calculatorr.pdb
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial Calculatorr.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial_Calculatorr.Form1.resources
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial_Calculatorr.Properties.Resources.resources
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial Calculatorr.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial Calculatorr.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial Calculatorr.exe
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financial Calculatorr.pdb
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.dll
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.pdb
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.xml
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\PC\source\repos\Financial Calculatorr\Financial Calculatorr\obj\Debug\Financia.76CF7196.Up2Date
